@@ -7,7 +7,7 @@ Built with Python and Streamlit as a mini project for Computer Science Engineeri
 ## Features
 - Upload **one or many** PDF resumes at once
 - Paste any job description
-- Automatic **skill extraction** (37 skills across programming, web, data/AI, tools and soft skills)
+- Automatic **skill extraction** (39 skills across programming, web, data/AI, tools and soft skills)
 - Shows **matched**, **missing** and **extra** skills for every resume
 - **Ranking table** with final score, skill match, text similarity and a verdict
 - **Bar chart** comparing all candidates
